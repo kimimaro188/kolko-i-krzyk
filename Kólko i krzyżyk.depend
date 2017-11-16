@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1509008358 source:c:\users\artur\desktop\kólko i krzy¿yk\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<string>
+	<cstdio>
+	<sstream>
+	<conio.h>
+	<windows.h>
+
